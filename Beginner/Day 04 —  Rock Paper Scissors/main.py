@@ -31,7 +31,7 @@ scissors = '''
 '''
 choices = [rock, paper, scissors]
 
-# method deciding the winner
+# function deciding the winner
 def winner():
     if player_choice == rock and computer_choice == scissors:
         print("You have won!")
