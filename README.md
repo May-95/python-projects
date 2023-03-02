@@ -25,3 +25,6 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 12** : [Number Guessing Game](https://github.com/May-95/python-projects/tree/main/Beginner/Day%2012%20—%20%20Number%20Guessing%20Game)
 
 **Day 14** : [Higher Lower Game](https://github.com/May-95/python-projects/tree/main/Beginner/Day%2014%20—%20%20Higher%20Lower%20Game)
+
+## 🏋🏽 Intermediate Python
+**Day 15** : [Coffee Machine](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2015%20—%20%20Coffee%20Machine)
