@@ -28,3 +28,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 
 ## 🏋🏽 Intermediate Python
 **Day 15** : [Coffee Machine](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2015%20—%20%20Coffee%20Machine)
+
+**Day 16** : [Coffee Machine OOP](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2016%20—%20%20Coffee%20Machine%20OOP)
