@@ -32,3 +32,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 16** : [Coffee Machine OOP](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2016%20—%20%20Coffee%20Machine%20OOP)
 
 **Day 17** : [Quiz](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2017%20—%20%20Quiz%20)
+
+**Day 18** : [The Hirst Painting](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2018%20—%20%20The%20Hirst%20Painting%20Project)
