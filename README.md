@@ -34,3 +34,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 17** : [Quiz](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2017%20—%20%20Quiz%20)
 
 **Day 18** : [The Hirst Painting](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2018%20—%20%20The%20Hirst%20Painting%20Project)
+
+**Day 19** : [Racing Turtles](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2019%20—%20%20Racing%20Turtles)
