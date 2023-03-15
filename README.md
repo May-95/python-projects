@@ -38,3 +38,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 19** : [Racing Turtles](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2019%20—%20%20Racing%20Turtles)
 
 **Day 20 & 21** : [Snake Game](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2020%20%26%2021%20—%20Snake%20Game)
+
+**Day 22** : [Pong](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2022%20—%20Pong)
