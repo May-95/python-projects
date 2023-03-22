@@ -40,3 +40,6 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 20 & 21** : [Snake Game](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2020%20%26%2021%20—%20Snake%20Game)
 
 **Day 22** : [Pong](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2022%20—%20Pong)
+
+**Day 23** : [Turtle Crossing](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2023%20—%20Turtle%20Crossing)
+
