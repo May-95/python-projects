@@ -44,3 +44,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 23** : [Turtle Crossing](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2023%20—%20Turtle%20Crossing)
 
 **Day 24** : [Mail Merge](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2024%20—%20Mail%20Merge)
+
+**Day 25** : [U.S. States Game](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2025%20—%20U.S.%20States%20Game)
