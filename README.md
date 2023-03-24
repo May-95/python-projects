@@ -56,3 +56,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 29** : [Password Manager](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2029%20—%20Password%20Manager)
 
 **Day 30** : [Improved Password Manager](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2030%20—%20Improved%20Password%20Manager)
+
+**Day 31** : [Flash Card App](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2031%20—%20Flash%20Card%20App)
