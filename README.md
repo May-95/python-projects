@@ -50,3 +50,5 @@ Mastering Python by building the projects in Dr. Angela Yu's Complete Python Pro
 **Day 26** : [NATO Alphabet](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2026%20—%20NATO%20Alphabet)
 
 **Day 27** : [Mile to Kilometers Converter](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2027%20—%20Mile%20to%20Kilometers%20Converter)
+
+**Day 28** : [Pomodoro Timer](https://github.com/May-95/python-projects/tree/main/Intermediate/Day%2028%20—%20Pomodoro%20Timer)
